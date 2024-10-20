@@ -22,7 +22,7 @@ To use **EVM Auto Deploy**, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/dante4rt/evm-auto-deploy.git
+   git clone https://github.com/BidyutRoy2/EVM-Auto-Deploy.git
    ```
 
 2. Install the dependencies:
@@ -78,15 +78,3 @@ To use **EVM Auto Deploy**, you need to create a `.env` file in the root directo
 ```bash
 PRIVATE_KEY=1234567890abcdef1234567890abcdef1234567890abcdef1234567890abcdef
 ```
-
-## Donations
-
-If you would like to support the development of this project, you can make a donation using the following addresses:
-
-- **Solana**: `GLQMG8j23ookY8Af1uLUg4CQzuQYhXcx56rkpZkyiJvP`
-- **EVM**: `0x960EDa0D16f4D70df60629117ad6e5F1E13B8F44`
-- **BTC**: `bc1p9za9ctgwwvc7amdng8gvrjpwhnhnwaxzj3nfv07szqwrsrudfh6qvvxrj8`
-
-## License
-
-**EVM Auto Deploy** is licensed under the MIT License. See the [LICENSE](./LICENSE) file for more information.
