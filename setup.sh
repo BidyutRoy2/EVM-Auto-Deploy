@@ -19,7 +19,7 @@ npm install
 
 # Create the .env file with the PRIVATE_KEY placeholder
 echo "Creating .env file..."
-echo "PRIVATE_KEY=" >> .env
+echo "PRIVATE_KEY=Enter-Private-Key" >> .env
 
 # Open the .env file in Visual Studio Code
 echo "Opening the .env file in Visual Studio Code..."
