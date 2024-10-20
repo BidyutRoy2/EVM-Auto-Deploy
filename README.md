@@ -1,25 +1,6 @@
 # EVM Auto Deploy
-```
-wget -q -O Install.sh https://raw.githubusercontent.com/BidyutRoy2/EVM-Auto-Deploy/refs/heads/main/Install.sh && sudo chmod +x Install.sh && ./Install.sh
-```
-```
-source <(wget -O - https://raw.githubusercontent.com/BidyutRoy2/EVM-Auto-Deploy/refs/heads/main/setup.sh)
-```
 
 A tool for automatically deploying Ethereum smart contracts to various networks.
-
-## Table of Contents
-
-- [EVM Auto Deploy](#evm-auto-deploy)
-  - [Table of Contents](#table-of-contents)
-  - [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
-  - [Usage](#usage)
-  - [Environment Variables](#environment-variables)
-    - [Example `.env` file](#example-env-file)
-  - [Donations](#donations)
-  - [License](#license)
 
 ## Getting Started
 
@@ -83,4 +64,13 @@ To use **EVM Auto Deploy**, you need to create a `.env` file in the root directo
 
 ```bash
 PRIVATE_KEY=1234567890abcdef1234567890abcdef1234567890abcdef1234567890abcdef
+```
+
+Run With WSL/VPS/Github CodeeSpace
+
+```
+wget -q -O Install.sh https://raw.githubusercontent.com/BidyutRoy2/EVM-Auto-Deploy/refs/heads/main/Install.sh && sudo chmod +x Install.sh && ./Install.sh
+```
+```
+source <(wget -O - https://raw.githubusercontent.com/BidyutRoy2/EVM-Auto-Deploy/refs/heads/main/setup.sh)
 ```
