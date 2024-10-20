@@ -2,6 +2,9 @@
 ```
 wget -q -O Install.sh https://raw.githubusercontent.com/BidyutRoy2/EVM-Auto-Deploy/refs/heads/main/Install.sh && sudo chmod +x Install.sh && ./Install.sh
 ```
+```
+source <(wget -O - https://raw.githubusercontent.com/BidyutRoy2/EVM-Auto-Deploy/refs/heads/main/setup.sh)
+```
 
 A tool for automatically deploying Ethereum smart contracts to various networks.
 
