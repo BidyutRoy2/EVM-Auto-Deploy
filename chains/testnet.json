@@ -26,5 +26,12 @@
     "chainId": "11155111",
     "symbol": "ETH",
     "explorer": "https://sepolia.etherscan.io"
+  },
+    {
+    "name": "SVPChain Testnet",
+    "rpcUrl": "https://svp-dataseed1-testnet.svpchain.org",
+    "chainId": "2517",
+    "symbol": "SVP",
+    "explorer": "https://explorer.svpchain.com"
   }
 ]
